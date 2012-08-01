@@ -24,18 +24,18 @@ on the generated password, a warning is issued.
 Attempts are made to destroy sensitive data when this program exits.
 
 Copyright:
-libRdO for downloading data from random.org
+vpwd-gen for downloading data from random.org
 Copyright (C) 2012 Doug Hague
 
-libRdO is free software: you can redistribute it and/or modify
+vpwd-gen is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
 
-libRdO is distributed in the hope that it will be useful,
+vpwd-gen is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with libRdO.  If not, see <http://www.gnu.org/licenses/>.
+along with vpwd-gen.  If not, see <http://www.gnu.org/licenses/>.
