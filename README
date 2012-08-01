@@ -24,7 +24,7 @@ on the generated password, a warning is issued.
 Attempts are made to destroy sensitive data when this program exits.
 
 Copyright:
-vpwd-gen for downloading data from random.org
+vpwd-gen for versatile generation of a password
 Copyright (C) 2012 Doug Hague
 
 vpwd-gen is free software: you can redistribute it and/or modify
